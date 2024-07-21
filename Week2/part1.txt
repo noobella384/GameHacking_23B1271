@@ -1,0 +1,9 @@
+1) CaveSpider
+2) CowKing
+3) AngryBear
+4) IceSpiderQueen
+5) GiantRat
+6) Actor
+7) Magmarok
+8) Madcow
+9) Bear
